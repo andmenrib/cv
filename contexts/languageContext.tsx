@@ -4,10 +4,10 @@ import { Language } from "../interfaces/index";
 
 export const LanguageContext = React.createContext<
   [Language, Dispatch<SetStateAction<Language>>]
->(["en", (e) => {}]);
+>(["pt", (e) => {}]);
 
 export function LanguageProvider({ children }: { children: any }) {
-  const [language, setLanguage] = useState<Language>("en");
+  const [language, setLanguage] = useState<Language>("pt");
 
   return (
     <LanguageContext.Provider value={[language, setLanguage]}>
