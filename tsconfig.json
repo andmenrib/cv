@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "components/Animation.js", "components/Buttons.jsx"  ],
+, "components/Animation.js", "components/Buttons.jsx", "components/Header.jsx"  ],
   "exclude": [
     "node_modules"
   ]

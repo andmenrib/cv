@@ -9,15 +9,12 @@ import { cssFormat } from "../config/formatConfig";
 function Header({
   content,
   css,
-}: {
-  content: string[];
-  css?: string | string[];
 }) {
   const [language, setLanguage] = useContext(LanguageContext);
 
-  function generateButtons(langs: string[]): any {
+  function generateButtons(langs) {
     // const langs = ["en", "es", "pt"];
-    const content = langs.map((l: Language, i: number) => {
+    const content = langs.map((l, i) => {
       return (
         <Button
           className={[
