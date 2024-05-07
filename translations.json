@@ -1,0 +1,242 @@
+{
+  "blankSpace": {
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "home": {
+    "en": "home",
+    "es": "inicio",
+    "pt": "início"
+  },
+  "name": {
+    "en": "name",
+    "es": "nombre",
+    "pt": "nome"
+  },
+  "currently": {
+    "en": "currently",
+    "es": "atualmente",
+    "pt": "atualmente"
+  },
+  "january": {
+    "en": "january",
+    "es": "enero",
+    "pt": "janeiro"
+  },
+  "february": {
+    "en": "february",
+    "es": "febrero",
+    "pt": "fevereiro"
+  },
+  "march": {
+    "en": "march",
+    "es": "marzo",
+    "pt": "março"
+  },
+  "april": {
+    "en": "april",
+    "es": "abril",
+    "pt": "abril"
+  },
+  "may": {
+    "en": "may",
+    "es": "mayo",
+    "pt": "maio"
+  },
+  "june": {
+    "en": "june",
+    "es": "junio",
+    "pt": "junho"
+  },
+  "july": {
+    "en": "july",
+    "es": "julio",
+    "pt": "julho"
+  },
+  "august": {
+    "en": "august",
+    "es": "agosto",
+    "pt": "agosto"
+  },
+  "september": {
+    "en": "september",
+    "es": "septiembre",
+    "pt": "setembro"
+  },
+  "october": {
+    "en": "october",
+    "es": "octubre",
+    "pt": "outubro"
+  },
+  "november": {
+    "en": "november",
+    "es": "noviembre",
+    "pt": "novembro"
+  },
+  "december": {
+    "en": "december",
+    "es": "diciembre",
+    "pt": "dezembro"
+  },
+  "programmer": {
+    "en": "programmer",
+    "es": "programador",
+    "pt": "programador"
+  },
+  "teachingCode": {
+    "en": "teaching code",
+    "es": "profesor de programación",
+    "pt": "professor de programação"
+  },
+  "brazil": {
+    "en": "brazil",
+    "es": "brasil",
+    "pt": "brasil"
+  },
+  "argentina": {
+    "en": "argentina",
+    "es": "argentina",
+    "pt": "argentina"
+  },
+  "usa": {
+    "en": "usa",
+    "es": "eeuu",
+    "pt": "eua"
+  },
+  "university": {
+    "en": "university",
+    "es": "universidad",
+    "pt": "universidade"
+  },
+  "exchangeship": {
+    "en": "exchangeship",
+    "es": "intercambio",
+    "pt": "intercâmbio"
+  },
+  "computerScience": {
+    "en": "computer science",
+    "es": "ciencia de la computación",
+    "pt": "ciência da computação"
+  },
+  "english": {
+    "en": "english",
+    "es": "inglés",
+    "pt": "inglês"
+  },
+  "spanish": {
+    "en": "spanish",
+    "es": "español",
+    "pt": "espanhol"
+  },
+  "portuguese": {
+    "en": "portuguese",
+    "es": "portugués",
+    "pt": "português"
+  },
+  "languages": {
+    "en": "languages",
+    "es": "idiomas",
+    "pt": "línguas"
+  },
+  "and": {
+    "en": "and",
+    "es": "y",
+    "pt": "e"
+  },
+  "dataBase": {
+    "en": "data base",
+    "es": "base de datos",
+    "pt": "banco de dados"
+  },
+  "design": {
+    "en": "design",
+    "es": "design",
+    "pt": "design"
+  },
+  "suchlike": {
+    "en": "suchlike",
+    "es": "similares",
+    "pt": "similares"
+  },
+  "pictureManage": {
+    "en": "picture manage",
+    "es": "manipulación de imágines",
+    "pt": "manipulação de imagens"
+  },
+  "softwareEngineering": {
+    "en": "software engineering",
+    "es": "ingenería de software",
+    "pt": "engenheiro de software"
+  },
+  "skills": {
+    "en": "skills",
+    "es": "habilidades",
+    "pt": "habilidades"
+  },
+  "address": {
+    "en": "address",
+    "es": "residencia",
+    "pt": "residência"
+  },
+  "personal": {
+    "en": "personal",
+    "es": "personal",
+    "pt": "pessoal"
+  },
+  "creativity": {
+    "en": "creativity",
+    "es": "creatividad",
+    "pt": "criatividade"
+  },
+  "developer": {
+    "en": "developer",
+    "es": "desarrollador",
+    "pt": "desenvolvedor"
+  },
+  "zipCode": {
+    "en": "zip code",
+    "es": "código postal",
+    "pt": "código postal"
+  },
+  "troubleshooting": {
+    "en": "trouble shooting",
+    "es": "solución de problemas",
+    "pt": "solução de problemas"
+  },
+  "debugging": {
+    "en": "debugging",
+    "es": "depuración",
+    "pt": "depuração"
+  },
+  "communicative": {
+    "en": "communicative",
+    "es": "comunicativo",
+    "pt": "comunicativo"
+  },
+  "conflictResolution": {
+    "en": "conflict resolution",
+    "es": "resolución de conflictos",
+    "pt": "resolução de conflitos"
+  },
+  "criticalThinking": {
+    "en": "critical thinking",
+    "es": "pensamiento crítico",
+    "pt": "pensamento crítico"
+  },
+  "resume": {
+    "en": "I studied at UFV, did an exchange program at this time. After I returned and participated in an educational work for the municipal administration. Later I moved to Argentina, where I am working for Beesion, a multinational company of Argentinian origin, since 2019. More than 4 years of experience in software development.",
+    "es": "Estudié en la UFV, hice un intercambio y cuando regresé participé en un trabajo educativo para gobierno de Viçosa, luego me mudé a Argentina, donde estoy trabajando para Beesion, una empresa multinacional de origen argentina, desde 2019. Más de 4 años de experiencia en desarrollo de software.",
+    "pt": "Estudei na UFV, fiz um intercâmbio, e ao regressar participei de um trabalho educatico para prefeitura, posteriormente me mudei para Argentina, onde estou trabalhando para Beesion, uma companhia multinacional de origem argentina, desde de 2019. Mais de 4 anos de experiência em desenvolvimento de software."
+  },
+  "personalDataof": {
+    "en": "Personal Data of",
+    "es": "Datos Personales de",
+    "pt": "Dados Pessoais de"
+  },
+  "fellFreeToCallMe": {
+    "en": "Fell free to call me",
+    "es": "Llámame cuando quieras",
+    "pt": "Entre em contato comigo"
+  }
+}
